@@ -144,7 +144,7 @@ if __name__ == "__main__":
     # ----------------------------
     # User controls
     # ----------------------------
-    gamma_list = np.arange(0.5, 0.5 + 1e-12, 0.5)
+    gamma_list = np.arange(0.5, 2.5 + 1e-12, 0.5)
     T = 10
     gamma_target = 0.5
 
